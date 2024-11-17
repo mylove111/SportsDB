@@ -1,0 +1,221 @@
+{
+    "sports": [
+        {
+            "sport": "Athletics",
+            "results": [
+                {
+                    "code": "United States of America",
+                    "medals": {
+                        "gold": 12,
+                        "silver": 15,
+                        "bronze": 13
+                    }
+                },
+                {
+                    "code": "People's Republic of China",
+                    "medals": {
+                        "gold": 10,
+                        "silver": 7,
+                        "bronze": 5
+                    }
+                },
+                {
+                    "code": "Japan",
+                    "medals": {
+                        "gold": 6,
+                        "silver": 3,
+                        "bronze": 4
+                    }
+                },
+                {
+                    "code": "Australia",
+                    "medals": {
+                        "gold": 3,
+                        "silver": 5,
+                        "bronze": 6
+                    }
+                },
+                {
+                    "code": "France",
+                    "medals": {
+                        "gold": 2,
+                        "silver": 7,
+                        "bronze": 5
+                    }
+                }
+            ]
+        },
+        {
+            "sport": "Swimming",
+            "results": [
+                {
+                    "code": "United States of America",
+                    "medals": {
+                        "gold": 15,
+                        "silver": 12,
+                        "bronze": 8
+                    }
+                },
+                {
+                    "code": "People's Republic of China",
+                    "medals": {
+                        "gold": 9,
+                        "silver": 6,
+                        "bronze": 5
+                    }
+                },
+                {
+                    "code": "Australia",
+                    "medals": {
+                        "gold": 12,
+                        "silver": 7,
+                        "bronze": 10
+                    }
+                },
+                {
+                    "code": "Japan",
+                    "medals": {
+                        "gold": 4,
+                        "silver": 5,
+                        "bronze": 4
+                    }
+                },
+                {
+                    "code": "France",
+                    "medals": {
+                        "gold": 3,
+                        "silver": 5,
+                        "bronze": 3
+                    }
+                }
+            ]
+        },
+        {
+            "sport": "Gymnastics",
+            "results": [
+                {
+                    "code": "People's Republic of China",
+                    "medals": {
+                        "gold": 12,
+                        "silver": 5,
+                        "bronze": 8
+                    }
+                },
+                {
+                    "code": "United States of America",
+                    "medals": {
+                        "gold": 6,
+                        "silver": 8,
+                        "bronze": 4
+                    }
+                },
+                {
+                    "code": "Japan",
+                    "medals": {
+                        "gold": 5,
+                        "silver": 4,
+                        "bronze": 6
+                    }
+                },
+                {
+                    "code": "Italy",
+                    "medals": {
+                        "gold": 3,
+                        "silver": 2,
+                        "bronze": 3
+                    }
+                },
+                {
+                    "code": "France",
+                    "medals": {
+                        "gold": 2,
+                        "silver": 4,
+                        "bronze": 3
+                    }
+                }
+            ]
+        },
+        {
+            "sport": "Cycling",
+            "results": [
+                {
+                    "code": "Netherlands",
+                    "medals": {
+                        "gold": 10,
+                        "silver": 3,
+                        "bronze": 4
+                    }
+                },
+                {
+                    "code": "France",
+                    "medals": {
+                        "gold": 4,
+                        "silver": 8,
+                        "bronze": 5
+                    }
+                },
+                {
+                    "code": "Great Britain",
+                    "medals": {
+                        "gold": 6,
+                        "silver": 5,
+                        "bronze": 7
+                    }
+                },
+                {
+                    "code": "Italy",
+                    "medals": {
+                        "gold": 2,
+                        "silver": 3,
+                        "bronze": 5
+                    }
+                },
+                {
+                    "code": "Australia",
+                    "medals": {
+                        "gold": 4,
+                        "silver": 3,
+                        "bronze": 5
+                    }
+                }
+            ]
+        },
+        {
+            "sport": "Taekwondo",
+            "results": [
+                {
+                    "code": "Republic of Korea",
+                    "medals": {
+                        "gold": 8,
+                        "silver": 4,
+                        "bronze": 2
+                    }
+                },
+                {
+                    "code": "Italy",
+                    "medals": {
+                        "gold": 3,
+                        "silver": 5,
+                        "bronze": 5
+                    }
+                },
+                {
+                    "code": "France",
+                    "medals": {
+                        "gold": 2,
+                        "silver": 3,
+                        "bronze": 4
+                    }
+                },
+                {
+                    "code": "Japan",
+                    "medals": {
+                        "gold": 2,
+                        "silver": 2,
+                        "bronze": 2
+                    }
+                }
+            ]
+        }
+    ]
+}
