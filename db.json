@@ -218,14 +218,14 @@
             ]
         },
         {
-            "sport": "Basketball",
+            "sport": "Other Sports",
             "results": [
                 {
                     "code": "United States of America",
                     "medals": {
-                        "gold": 6,
-                        "silver": 6,
-                        "bronze": 6
+                        "gold": 7,
+                        "silver": 9,
+                        "bronze": 10
                     }
                 },
                 {
@@ -239,17 +239,17 @@
                 {
                     "code": "Australia",
                     "medals": {
-                        "gold": 1,
+                        "gold": 2,
                         "silver": 2,
-                        "bronze": 5
+                        "bronze": 0
                     }
                 },
                 {
                     "code": "France",
                     "medals": {
-                        "gold": 3,
+                        "gold": 2,
                         "silver": 1,
-                        "bronze": 2
+                        "bronze": 4
                     }
                 },
                 {
@@ -259,185 +259,13 @@
                         "silver": 2,
                         "bronze": 2
                     }
-                }
-            ]
-        },
-        {
-            "sport": "Football",
-            "results": [
-                {
-                    "code": "United States of America",
-                    "medals": {
-                        "gold": 6,
-                        "silver": 6,
-                        "bronze": 6
-                    }
                 },
                 {
-                    "code": "People's Republic of China",
-                    "medals": {
-                        "gold": 9,
-                        "silver": 9,
-                        "bronze": 6
-                    }
-                },
-                {
-                    "code": "Australia",
-                    "medals": {
-                        "gold": 1,
-                        "silver": 2,
-                        "bronze": 5
-                    }
-                },
-                {
-                    "code": "France",
-                    "medals": {
-                        "gold": 3,
-                        "silver": 1,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "Italy",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                }
-            ]
-        },
-        {
-            "sport": "Tennis",
-            "results": [
-                {
-                    "code": "United States of America",
-                    "medals": {
-                        "gold": 6,
-                        "silver": 6,
-                        "bronze": 6
-                    }
-                },
-                {
-                    "code": "People's Republic of China",
-                    "medals": {
-                        "gold": 9,
-                        "silver": 9,
-                        "bronze": 6
-                    }
-                },
-                {
-                    "code": "Australia",
-                    "medals": {
-                        "gold": 1,
-                        "silver": 2,
-                        "bronze": 5
-                    }
-                },
-                {
-                    "code": "France",
-                    "medals": {
-                        "gold": 3,
-                        "silver": 1,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "Italy",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                }
-            ]
-        },
-        {
-            "sport": "Weightlifting",
-            "results": [
-                {
-                    "code": "People's Republic of China",
-                    "medals": {
-                        "gold": 6,
-                        "silver": 3,
-                        "bronze": 3
-                    }
-                },
-                {
-                    "code": "United States of America",
+                    "code": "Republic of Korea",
                     "medals": {
                         "gold": 3,
                         "silver": 3,
-                        "bronze": 3
-                    }
-                },
-                {
-                    "code": "Japan",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "Australia",
-                    "medals": {
-                        "gold": 1,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "France",
-                    "medals": {
-                        "gold": 1,
-                        "silver": 1,
-                        "bronze": 1
-                    }
-                }
-            ]
-        },
-        {
-            "sport": "Judo",
-            "results": [
-                {
-                    "code": "Japan",
-                    "medals": {
-                        "gold": 3,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "France",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "People's Republic of China",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "United States of America",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "Italy",
-                    "medals": {
-                        "gold": 1,
-                        "silver": 1,
-                        "bronze": 1
+                        "bronze": 6
                     }
                 }
             ]
