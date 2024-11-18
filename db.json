@@ -416,59 +416,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "sport": "Other Sports",
-            "results": [
-                {
-                    "code": "United States of America",
-                    "medals": {
-                        "gold": 7,
-                        "silver": 9,
-                        "bronze": 10
-                    }
-                },
-                {
-                    "code": "People's Republic of China",
-                    "medals": {
-                        "gold": 9,
-                        "silver": 9,
-                        "bronze": 6
-                    }
-                },
-                {
-                    "code": "Australia",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 0
-                    }
-                },
-                {
-                    "code": "France",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 1,
-                        "bronze": 4
-                    }
-                },
-                {
-                    "code": "Italy",
-                    "medals": {
-                        "gold": 2,
-                        "silver": 2,
-                        "bronze": 2
-                    }
-                },
-                {
-                    "code": "Republic of Korea",
-                    "medals": {
-                        "gold": 3,
-                        "silver": 3,
-                        "bronze": 6
-                    }
-                }
-            ]
         }
     ]
 }
