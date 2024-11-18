@@ -9,7 +9,12 @@
                         "gold": 12,
                         "silver": 15,
                         "bronze": 13
-                    }
+                    },
+                    "details":[
+                        { "event": "Men's 100m","player":"Noah LYLES","medal":"gold"},
+                        { "event":"Men's 200m","player":"Kenneth BEDNAREK","medal":"silver"},
+                        { "event":"Women's Long Jump","player":"Jasmine MOORE","medal":"bronze"}
+                    ]
                 },
                 {
                     "code": "People's Republic of China",
@@ -17,7 +22,12 @@
                         "gold": 10,
                         "silver": 7,
                         "bronze": 5
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's 800m", "player": "Wang CHUNYU", "medal": "gold" },
+                        { "event": "Men's High Jump", "player": "Zhang GUOWEI", "medal": "silver" },
+                        { "event": "Men's Shot Put", "player": "Gong LIJIAO", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Japan",
@@ -25,7 +35,12 @@
                         "gold": 6,
                         "silver": 3,
                         "bronze": 4
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's 400m", "player": "Ryota Yamagata", "medal": "gold" },
+                        { "event": "Men's 110m Hurdles", "player": "Shunsuke Izumiya", "medal": "silver" },
+                        { "event": "Women's Marathon", "player": "Hitomi Niiya", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Australia",
@@ -33,7 +48,12 @@
                         "gold": 3,
                         "silver": 5,
                         "bronze": 6
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's 400m", "player": "Catriona Bisset", "medal": "gold" },
+                        { "event": "Men's 4x100m Relay", "player": "Australia Team", "medal": "silver" },
+                        { "event": "Women's Discus Throw", "player": "Dani Stevens", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "France",
@@ -41,7 +61,12 @@
                         "gold": 2,
                         "silver": 7,
                         "bronze": 5
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's Pole Vault", "player": "Renaud Lavillenie", "medal": "gold" },
+                        { "event": "Women's Heptathlon", "player": "Antoinette Nana Djimou", "medal": "silver" },
+                        { "event": "Men's 10,000m", "player": "Morhad Amdouni", "medal": "bronze" }
+                    ]
                 }
             ]
         },
@@ -54,7 +79,12 @@
                         "gold": 15,
                         "silver": 12,
                         "bronze": 8
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's 100m Freestyle", "player": "Caeleb DRESSEL", "medal": "gold" },
+                        { "event": "Women's 200m Butterfly", "player": "Katie LEDECKY", "medal": "silver" },
+                        { "event": "Men's 400m Medley Relay", "player": "Michael Andrew", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "People's Republic of China",
@@ -62,7 +92,12 @@
                         "gold": 9,
                         "silver": 6,
                         "bronze": 5
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's 200m Freestyle", "player": "Sun Yang", "medal": "gold" },
+                        { "event": "Women's 400m Individual Medley", "player": "Ye Shiwen", "medal": "silver" },
+                        { "event": "Women's 200m Breaststroke", "player": "Wang Shun", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Australia",
@@ -70,7 +105,12 @@
                         "gold": 12,
                         "silver": 7,
                         "bronze": 10
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's 100m Freestyle", "player": "Emma McKeon", "medal": "gold" },
+                        { "event": "Men's 200m Butterfly", "player": "Kyle Chalmers", "medal": "silver" },
+                        { "event": "Women's 800m Freestyle", "player": "Ariarne Titmus", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Japan",
@@ -78,7 +118,12 @@
                         "gold": 4,
                         "silver": 5,
                         "bronze": 4
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's 200m Backstroke", "player": "Ryosuke Irie", "medal": "gold" },
+                        { "event": "Women's 200m Breaststroke", "player": "Satomi Suzuki", "medal": "silver" },
+                        { "event": "Men's 4x100m Medley Relay", "player": "Japan Team", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "France",
@@ -86,7 +131,12 @@
                         "gold": 3,
                         "silver": 5,
                         "bronze": 3
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's 50m Freestyle", "player": "Florent Manaudou", "medal": "gold" },
+                        { "event": "Women's 100m Butterfly", "player": "Marie Wattel", "medal": "silver" },
+                        { "event": "Men's 200m Individual Medley", "player": "Léon Marchand", "medal": "bronze" }
+                    ]
                 }
             ]
         },
@@ -99,7 +149,12 @@
                         "gold": 12,
                         "silver": 5,
                         "bronze": 8
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's Team All-Around", "player": "China Team", "medal": "gold" },
+                        { "event": "Women's Uneven Bars", "player": "Fan Yilin", "medal": "silver" },
+                        { "event": "Men's Floor Exercise", "player": "Xiao Ruoteng", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "United States of America",
@@ -107,7 +162,12 @@
                         "gold": 6,
                         "silver": 8,
                         "bronze": 4
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's Team All-Around", "player": "USA Team", "medal": "gold" },
+                        { "event": "Men's Horizontal Bar", "player": "Sam Mikulak", "medal": "silver" },
+                        { "event": "Women's Floor Exercise", "player": "Jade Carey", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Japan",
@@ -115,7 +175,12 @@
                         "gold": 5,
                         "silver": 4,
                         "bronze": 6
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's Pommel Horse", "player": "Kohei Uchimura", "medal": "gold" },
+                        { "event": "Women's Balance Beam", "player": "Asuka Teramoto", "medal": "silver" },
+                        { "event": "Men's Rings", "player": "Kenta Chiba", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Italy",
@@ -123,7 +188,12 @@
                         "gold": 3,
                         "silver": 2,
                         "bronze": 3
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's Parallel Bars", "player": "Ludovico Edalli", "medal": "gold" },
+                        { "event": "Women's Vault", "player": "Vanessa Ferrari", "medal": "silver" },
+                        { "event": "Men's Floor Exercise", "player": "Niccolò Rinaldi", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "France",
@@ -131,7 +201,12 @@
                         "gold": 2,
                         "silver": 4,
                         "bronze": 3
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's Uneven Bars", "player": "Mélanie de Jesus dos Santos", "medal": "gold" },
+                        { "event": "Men's Vault", "player": "Samir Aït Saïd", "medal": "silver" },
+                        { "event": "Women's All-Around", "player": "Marine Boyer", "medal": "bronze" }
+                    ]
                 }
             ]
         },
@@ -144,7 +219,12 @@
                         "gold": 10,
                         "silver": 3,
                         "bronze": 4
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's Road Race", "player": "Tom Dumoulin", "medal": "gold" },
+                        { "event": "Women's Time Trial", "player": "Annemiek van Vleuten", "medal": "silver" },
+                        { "event": "Men's Sprint", "player": "Harrie Lavreysen", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "France",
@@ -152,7 +232,12 @@
                         "gold": 4,
                         "silver": 8,
                         "bronze": 5
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's Mountain Bike", "player": "Jordan Sarrou", "medal": "gold" },
+                        { "event": "Women's Road Race", "player": "Audrey Cordon-Ragot", "medal": "silver" },
+                        { "event": "Men's Track Omnium", "player": "Benjamin Thomas", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Great Britain",
@@ -160,7 +245,12 @@
                         "gold": 6,
                         "silver": 5,
                         "bronze": 7
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's Team Pursuit", "player": "Great Britain Team", "medal": "gold" },
+                        { "event": "Women's Sprint", "player": "Emma Finucane", "medal": "silver" },
+                        { "event": "Men's Individual Time Trial", "player": "Geraint Thomas", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Italy",
@@ -168,7 +258,12 @@
                         "gold": 2,
                         "silver": 3,
                         "bronze": 5
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's Track Omnium", "player": "Elisa Balsamo", "medal": "gold" },
+                        { "event": "Men's Keirin", "player": "Filippo Ganna", "medal": "silver" },
+                        { "event": "Women's Mountain Bike", "player": "Eva Lechner", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Australia",
@@ -176,7 +271,12 @@
                         "gold": 4,
                         "silver": 3,
                         "bronze": 5
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's Team Pursuit", "player": "Australia Team", "medal": "gold" },
+                        { "event": "Men's BMX Freestyle", "player": "Logan Martin", "medal": "silver" },
+                        { "event": "Men's Road Race", "player": "Caleb Ewan", "medal": "bronze" }
+                    ]
                 }
             ]
         },
@@ -189,7 +289,12 @@
                         "gold": 8,
                         "silver": 4,
                         "bronze": 2
-                    }
+                    },
+                    "details": [
+                        { "event": "Men's 58kg", "player": "Jang Jun", "medal": "gold" },
+                        { "event": "Women's 49kg", "player": "Sim Jae-young", "medal": "gold" },
+                        { "event": "Men's 68kg", "player": "Lee Dae-hoon", "medal": "silver" }
+                    ]
                 },
                 {
                     "code": "Italy",
@@ -197,7 +302,12 @@
                         "gold": 3,
                         "silver": 5,
                         "bronze": 5
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's 67kg", "player": "Elisa Giordano", "medal": "gold" },
+                        { "event": "Men's 80kg", "player": "Vito Dell'Aquila", "medal": "silver" },
+                        { "event": "Men's 58kg", "player": "Roberto Botta", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "France",
@@ -205,7 +315,12 @@
                         "gold": 2,
                         "silver": 3,
                         "bronze": 4
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's 49kg", "player": "Marie-Laure Gbagbi", "medal": "gold" },
+                        { "event": "Men's 68kg", "player": "Maxime Potvin", "medal": "silver" },
+                        { "event": "Women's 57kg", "player": "Camille Grandin", "medal": "bronze" }
+                    ]
                 },
                 {
                     "code": "Japan",
@@ -213,7 +328,12 @@
                         "gold": 2,
                         "silver": 2,
                         "bronze": 2
-                    }
+                    },
+                    "details": [
+                        { "event": "Women's 67kg", "player": "Aya Yamada", "medal": "gold" },
+                        { "event": "Men's 80kg", "player": "Takuma Sato", "medal": "silver" },
+                        { "event": "Women's 49kg", "player": "Rika Matsumoto", "medal": "bronze" }
+                    ]
                 }
             ]
         }
